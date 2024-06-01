@@ -1,0 +1,27 @@
+
+body{background-color: rgb(212, 195, 173);}   
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.caja1{
+    background-color: rgb(143, 108, 45);
+    height: 150px;
+    width: 1345px;
+}
+a {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(145, 93, 29);
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}   
+a:hover{background-color: rgb(84, 55, 43);}
+img{
+    max-width: 250px;
+    border: solid 5px; 
+    background-color: black;
+    }
